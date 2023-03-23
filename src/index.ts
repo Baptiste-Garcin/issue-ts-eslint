@@ -1,4 +1,4 @@
-import { getExpress } from './lib'
+import { getExpress } from './lib/lib'
 
 const foo = getExpress()
 
