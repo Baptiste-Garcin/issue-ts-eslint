@@ -1,0 +1,29 @@
+{
+  "name": "issue-ts-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baptiste-Garcin/issue-ts-eslint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baptiste-Garcin/issue-ts-eslint/issues"
+  },
+  "homepage": "https://github.com/Baptiste-Garcin/issue-ts-eslint#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint": "^8.36.0",
+    "typescript": "^5.0.2"
+  }
+}
